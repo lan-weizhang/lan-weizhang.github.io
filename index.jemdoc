@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Wei Zhang
+
+~~~
+{}{img_left}{photos\ZW.jpg}{Zhang Wei}}{alt text}{326px}{245px}
+Postdoctoral Research Fellow \n
+[https://www.ntu.edu.sg/eee School of Electrical and Electronic Engineering]\n
+[https://www.ntu.edu.sg/ Nanyang Technological University]\n\n
+Email: wzhang237-c\[AT\]my\[DOT\]cityu\[DOT\]edu\[DOT\]hk
+~~~
+
+
+
+
+
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+== About me
+I am a postdoctoral research fellow in School of Electrical and Electronic Engineering at Nanyang Technological University, working with [https://personal.ntu.edu.sg/wptay/ Prof. Tay Wee Peng]. Before this, I received my Ph.D. degree in the Department of Electrical Engineering at the City University of Hong Kong (CityU), supervised by with [https://www.ee.cityu.edu.hk/~shleung/ Prof. Shu-Hung Leung] and [http://ittc.ku.edu/~tjkim/ Prof. Taejoon Kim].
+Before that, I received the B.S. and M.S. degrees from the Harbin Institute of Technology, Harbin, China, in 2013 and 2015, respectively. 
+
+== Education 
+- Ph.D. in Computer Science, City University of Hong Kong, Sep. 2015 - Oct. 2019
+- M.S. in Information and Comunication Engineering, Harbin Institute of Technology, Sep. 2013 - Jun. 2015
+- B.S. in Communication Enginnering, Harbin Institute of Technology (Hornor School), Sep. 2009 - Jun. 2013
+
+== Research Interests 
+My researchs focus on low-rank matrix recovery and its application in millimeter wave channel estimation. The current research topics include:
+- Millimeter wave channel estimation: AoAs and AoDs estimation, hybrid precoding, and subspace estimation
+- Low-rank matrix recovery: restricted isolated property analysis and convex optimization
+- Statistical analysis: probability analysis and robust parameter estimation
+
+
+
+
+
+
+
+# == Awards
+#- Excellent Graduate Student Award, HIT, 2014
+#- National Motivational Scholarships, Ministry of Education of China, 2010,2011
+#- First class of scholarship of HIT, 2010,2011,2012
+
+
