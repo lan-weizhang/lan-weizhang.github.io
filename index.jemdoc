@@ -15,8 +15,19 @@ Email: zhangwei.sz\[AT\]hit\[DOT\]edu\[DOT\]cn
 
 
 == News
-- \[April 2023\] Our paper "Approximate Maximum-Likelihood RIS-Aided Positioning" is accepted by IEEE Transactions on Wireless Communications!
-- \[March 2023\] I have joined Harbin Institute of Technology Shenzhen as an Assistant Professor!
+- \[September 2023\] Welcome Gengshuo Chang and Lehan Zhang to join our group!
+
+- \[September 2023\] Our paper "Successful Recovery Performance Guarantees of SOMP Under the L2-Norm of Noise" is accepted by IEEE Transactions on Vehicular Technology.
+ 
+#In this paper, we present a new mutual incoherence property (MIP)-based study for performance analysis of noisy SOMP when the measurement matrix and sparse signal are deterministic.
+#Specifically, when noise is bounded, we provide the condition on which the exact support recovery is guaranteed in terms of the MIP.
+#Then we focus on the typical case when noise is random Gaussian, and show that the lower bound of SRP follows Tracy-Widom law distribution.
+#The analysis reveals the number of measurements, noise level, the number of sparse vectors, and the value of mutual coherence that are required to guarantee a predefined recovery performance.
+
+- \[April 2023\] Our paper "Approximate Maximum-Likelihood RIS-Aided Positioning" is accepted by IEEE Transactions on Wireless Communications.
+
+
+- \[March 2023\] I have joined Harbin Institute of Technology Shenzhen as an Assistant Professor.
 
 #- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
 #- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
