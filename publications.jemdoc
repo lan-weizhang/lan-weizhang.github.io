@@ -9,7 +9,11 @@ Random Unit-Modulus Vectors \n
 *W. Zhang,* Z. Wang, and W. P. Tay, in press, IEEE Transactions on Wireless Comunications, 2023.
 
 - [https://ieeexplore.ieee.org/document/10251545 Successful Recovery Performance Guarantees of SOMP Under the L2-norm of Noise] \n
+<<<<<<< HEAD
  *W. Zhang* and T. Kim, in press, IEEE Transactions on Vehicular Technology.
+=======
+ *W. Zhang* and T. Kim, submitted to Information and Inference: A Journal of the IMA, 2023.
+>>>>>>> ae91428a97685c244d8063fdd9e8706dd998249e
 
 - [https://ieeexplore.ieee.org/abstract/document/9760446 MMV-Based Sequential AoA and AoD Estimation for Millimeter Wave MIMO Channels] \n 
 *W. Zhang*, T. Kim, and M. Dong, IEEE Transactions on Communications, vol. 70, no. 6, pp. 4063-4077, June 2022.
