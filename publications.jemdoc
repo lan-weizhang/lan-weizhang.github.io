@@ -1,8 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
-- Restricted Isometry Property of Rank-One Measurements with
-Random Unit-Modulus Vectors \n
+- [https://arxiv.org/pdf/2403.02654.pdf Restricted Isometry Property of Rank-One Measurements with
+Random Unit-Modulus Vectors] \n
 *W. Zhang*  and Z. Wang, Accepted by AISTATS 2024.
 
 - [https://ieeexplore.ieee.org/document/10105207 Approximate Maximum-Likelihood RIS-Aided Positioning]  \n
